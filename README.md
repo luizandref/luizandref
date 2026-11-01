@@ -6,7 +6,7 @@
 
 <div align="center">
 
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:071a0b,100:00ff66&height=180&section=header&text=Luiz%20André&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Building%20my%20future%20with%20code&descAlignY=58&descSize=16&animation=fadeIn" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:071a0b,100:00ff66&height=180&section=header&text=Luiz%20André&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=%20%20%20%20&descAlignY=58&descSize=16&animation=fadeIn" />
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=600&lines=Estudante+de+ADS;Auxiliar+de+Cart%C3%B3rio+%7C+TI;Java+%26+Spring+Boot;Sempre+aprendendo+algo+novo..." alt="Typing SVG" />
 
