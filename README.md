@@ -9,7 +9,7 @@
 
   <br/>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=600&lines=Estudante+de+ADS;Auxiliar+de+Cart%C3%B3rio+%7C+TI;Java+%26+Spring+Boot;Learning.+Coding.+Evolving." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=600&lines=Estudante+de+ADS;Auxiliar+de+Cart%C3%B3rio+%7C+TI;Java+%26+Spring+Boot." />
 
 </div>
 
@@ -150,8 +150,8 @@ Ainda estou construindo minha base de conhecimento, aprendendo na prática e bus
     alt="Footer"
   />
 
-  ### 「 Keep learning. Keep building. 」
+  ### 「 TAMO AI. 」
 
-  <sub>Feito com ☕, curiosidade e algumas linhas de código.</sub>
+  <sub>Muito café e código duvidoso.</sub>
 
 </div>
