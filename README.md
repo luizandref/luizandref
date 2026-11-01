@@ -74,19 +74,6 @@ Ainda estou construindo minha base de conhecimento, aprendendo na prática e bus
 
 </div>
 
----
-
-## 🗣️ Top Languages
-
-<div align="center">
-
-  <img
-    width="55%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizandref&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff66&text_color=ffffff"
-    alt="Top Languages"
-  />
-
-</div>
 
 ---
 
@@ -104,21 +91,7 @@ Ainda estou construindo minha base de conhecimento, aprendendo na prática e bus
 
 ---
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-  <img
-    width="100%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=luizandref&bg_color=0d1117&color=00ff66&line=00ff66&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity"
-    alt="Contribution Activity"
-  />
-
-</div>
-
----
-
-## 🌐 Conecte-se comigo
+## 🌐 Contato
 
 <div align="center">
 
